@@ -7,7 +7,7 @@ Esse projeto é um CV feito apenas com HTML.
 - HTML5
 
 ## Autor
-Letícia Soares
+Letícia França
 - 📧 lety.adf@gmail.com
 
 https://roadmap.sh/projects/single-page-cv
